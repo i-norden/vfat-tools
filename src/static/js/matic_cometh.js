@@ -100,5 +100,13 @@ const ComethStakingContracts =  [
   {
     //tokens: [MUST, MATIC],
     stakingRewardAddress: '0x449A45A2Db94Fb4cD14f7Af4FD2322649492225A'
+  },
+  {
+    //tokens: [MUST, AZUKI],
+    stakingRewardAddress: '0x6c99E24FcC6C6a3511057B5655369245A2298106'
+  },
+  {
+    //tokens: [WETH, AZUKI],
+    stakingRewardAddress: '0x461CB0b067eBD1A402f0ed32caE1b89d42796E94'
   }
 ]
